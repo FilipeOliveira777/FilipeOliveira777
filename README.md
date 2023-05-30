@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Olá, me chamo Filipe! 
 ## Bem vindo ao meu perfil GitHub 👋
-- 🔭 Atualmente Estou Cursando ADS ...
+- 🔭 Atualmente Cursando ADS ...
 <!--
 **Lipe157/Lipe157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
