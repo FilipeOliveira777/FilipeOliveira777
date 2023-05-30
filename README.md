@@ -21,7 +21,10 @@
 </div><br>
  <div style="display: flex;">           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/                   
+             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+             
+            <i class="devicon-html5-plain-wordmark colored"></i>
+          
   </div>          
 <!--
 **Lipe157/Lipe157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
