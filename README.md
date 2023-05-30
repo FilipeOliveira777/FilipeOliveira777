@@ -13,7 +13,7 @@
 </div><br>
             Meus Status do GitHub!!<br>
  
-
+<br>
 <div>
 <a href="https://github.com/Lipe157">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipe157&layout=compact&langs_count=7&theme=dracula"/>
