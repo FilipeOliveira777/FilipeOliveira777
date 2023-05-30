@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
             Meus Status do GitHub!!
- ![GIF](https://media.tenor.com/yqdu7XTfB5sAAAAM/status.gif)
+ 
 
 <div>
 <a href="https://github.com/Lipe157">
